@@ -36,4 +36,4 @@ Trong mô-đun này, bạn sẽ:
 
 ---
 
-[Bài tiếp theo](/Introduction.md)
+[Bài tiếp theo: Giới thiệu](/Introduction.md)
